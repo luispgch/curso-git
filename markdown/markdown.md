@@ -13,6 +13,6 @@ git clone git@github.com:this-is-you/first-contributions.git
 ```
 
 ```
-mkdir textPrueba
+mkdir textPrueba -y
 ```
 
